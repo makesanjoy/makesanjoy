@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20Singha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Expert%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanjay%20Singha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+apps+that+make+a+difference+%F0%9F%9A%80;Flutter+%7C+MERN+Stack+%7C+Full+Stack+Dev;Turning+ideas+into+elegant+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Full+Stack+Dev+%7C+Flutter+Expert+%7C+AI+Enthusiast;%F0%9F%A4%96+Building+with+AI+%E2%80%94+Claude+CLI+%2B+Copilot+%2B+Cursor;%E2%9A%A1+Shipping+fast%2C+breaking+nothing%2C+vibing+always)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,10 +18,20 @@
 
 ```yaml
 name: Sanjay Singha
-role: Full Stack Developer
-location: India
-currently_working_on: Karkinos Mobile App
-learning: AI & ML for coding applications
+role: Full Stack Developer & AI-Augmented Engineer
+location: Bangalore, India
+currently_building:
+  - AI-powered UI generator (uigen)
+  - Full-stack apps with intelligent features
+  - Open source Flutter packages
+
+ai_toolkit:
+  - Claude CLI (daily driver)
+  - GitHub Copilot
+  - Cursor IDE
+  - ChatGPT
+
+philosophy: "Let AI handle the boilerplate, I handle the architecture"
 
 expertise:
   mobile: ["Flutter", "Dart"]
@@ -29,16 +39,17 @@ expertise:
   backend: ["Node.js", "Express.js", "MongoDB", "Mongoose"]
   tools: ["Git", "Docker", "Firebase", "Postman"]
 
-fun_fact: "I debug with console.log and I'm not ashamed 😄"
+fun_fact: "I mass-produce side projects like a factory line — some ship, all teach"
 ```
 
 <table>
 <tr>
 <td>
 
-- 🔭 Working on **[Karkinos Mobile App](https://play.google.com/store/apps/details?id=com.karkinos)**
-- 🧠 Currently Learning **AI & ML for coding applications**
-- 💬 Ask me about **MERN Stack, Flutter, Full Stack Dev**
+- 🔭 Building **[uigen](https://github.com/makesanjoy/uigen)** — AI-powered UI generation tool
+- 🤖 Supercharged by **Claude CLI, Copilot & Cursor** — AI is my pair programmer
+- 🧠 Deep-diving into **AI/ML to build smarter developer tools**
+- 💬 Ask me about **MERN Stack, Flutter, AI-assisted development**
 - 👨‍💻 Portfolio: **[makesanjoy.github.io/responsive-portfolio](https://makesanjoy.github.io/responsive-portfolio/)**
 - 📧 Reach me at **make.sanjoy@gmail.com**
 
@@ -59,6 +70,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <a href="https://github.com/makesanjoy" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/sanjay-singha-9b6099172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Sanjay01singha" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 <a href="https://www.hackerrank.com/make_sanjoy" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 <a href="mailto:make.sanjoy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
@@ -87,6 +99,12 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### AI Toolkit
+![Claude](https://img.shields.io/badge/Claude_CLI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -103,24 +121,17 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=makesanjoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=makesanjoy&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6E96&currStreakLabel=A960FF" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=makesanjoy&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=makesanjoy&theme=radical&hide_border=true&background=141321" alt="Streak Stats"/>
 
 </div>
 
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesanjoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=makesanjoy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=makesanjoy&layout=compact&theme=radical&hide_border=true&bg_color=141321&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=makesanjoy&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
@@ -130,7 +141,25 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=makesanjoy&bg_color=0D1117&color=A960FF&line=A960FF&point=FF6E96&area=true&area_color=A960FF&hide_border=true" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=makesanjoy&bg_color=141321&color=A960FF&line=A960FF&point=FF6E96&area=true&area_color=A960FF&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 Profile Summary
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makesanjoy&theme=radical" alt="Profile Details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=makesanjoy&theme=radical" alt="Repos Per Language"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=makesanjoy&theme=radical" alt="Most Commit Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=makesanjoy&theme=radical" alt="Stats"/>
 
 </div>
 
@@ -162,8 +191,8 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**If you like my work, consider giving a ⭐ to my repos — it motivates me to build more!**
+**If you like my work, consider giving a ⭐ — it fuels the next side project!**
 
 </div>
